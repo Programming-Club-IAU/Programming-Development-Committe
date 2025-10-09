@@ -1,2 +1,55 @@
-# Programming-Development-Committe
-This Repository will be the interface for the committe's learning paths
+<div align="center">
+  
+# 💻 Programming Club: P&D Committee Learning Paths🚀
+
+Official learning materials curated by the **Programming & Development Committee**. 
+A structured, step-by-step path for club members to master essential coding skills and development workflows.
+
+<br>
+
+## 📚 Learning Paths
+
+Find your path here!
+
+[Front-end](/Front-end/Front-end_Path.md)
+
+[Back-end](/Back-end/Back-end_Path.md)
+
+[App](/App/App_Path.md)
+
+<br>
+
+## 🛠️ Prerequisites & Setup
+
+Before you begin, first complete week one lecture *Dev Tools Intro* to gain a basic concept of the Setup:
+
+[Week 1: Dev Tools Intro](/Dev_Tools_Intro.md)
+
+<br>
+
+After that, ensure you have the following configured:
+
+**1. Code Editor (IDE):** We highly recommend [**VS Code**](https://code.visualstudio.com/download).
+
+**2. Version Control:** [**Git Desktop**](https://github.com/apps/desktop) installed locally.
+
+**3. Github Account:** [**Github**](https://www.github.com/) for saving and submitting assignments.
+
+
+<br>
+
+
+## 🔀 Workflow:
+
+To ensure you can follow along and save your progress:
+
+
+**1. Create a single repository and make a folder for each assignment**
+
+**2. Store the Assignment solution in that folder**
+
+**3. Fill the submission form with the URL of the solution**
+
+</div>
+
+
