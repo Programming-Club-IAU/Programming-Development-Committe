@@ -49,5 +49,5 @@ Once you’ve completed your task, share your repository link in the GitHub assi
 
 If you’re interested in exploring more about developer tools and workflows, here are some extra materials you can check out at your own pace:
 - [Git Basics - Official Git Tutorial](https://git-scm.com/docs/gittutorial)
-- [VS Code Get Started - Offical VS Code Tutorial](https://code.visualstudio.com/docs/getstarted/getting-started)
+- [VS Code Get Started - Official VS Code Tutorial](https://code.visualstudio.com/docs/getstarted/getting-started)
 - [Mamdouh Git Course - Git CLI](https://www.youtube.com/watch?v=qCp9QpVeJPE)
