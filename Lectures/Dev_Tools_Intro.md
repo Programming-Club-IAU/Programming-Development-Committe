@@ -48,6 +48,7 @@ Once you’ve completed your task, share your repository link in the GitHub assi
 ## 💡 Additional Resources (Optional)
 
 If you’re interested in exploring more about developer tools and workflows, here are some extra materials you can check out at your own pace:
+- [NetNinja Git Crash Course](https://youtube.com/playlist?list=PL4cUxeGkcC9j2pbmcA93DR1A3m7VEgSxK&si=Mk0luJNbqzieFWIh)
 - [Git Basics - Official Git Tutorial](https://git-scm.com/docs/gittutorial)
 - [VS Code Get Started - Official VS Code Tutorial](https://code.visualstudio.com/docs/getstarted/getting-started)
 - [Mamdouh Git Course - Git CLI](https://www.youtube.com/watch?v=qCp9QpVeJPE)
