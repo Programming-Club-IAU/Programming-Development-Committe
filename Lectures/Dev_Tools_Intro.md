@@ -9,7 +9,7 @@ You can rewatch the full session here:
 🔗 [Watch the recording](https://youtu.be/17PSSgbuFbs?si=24-lYgN6TrdUZq65)
 
 The slides used in the lecture:
-[Slides](https://github.com/Turk8i/Programming-Club-Dev-Tools-Intro/blob/main/Dev%20Tools%20Intro.pdf) **CHANGE
+[Slides](../assets/Dev%20Tools%20Intro.pdf) **CHANGE
 
 
 ## 📚 Self-Learning Resources
