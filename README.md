@@ -11,11 +11,11 @@ A structured, step-by-step path for club members to master essential coding skil
 
 Find your path here!
 
-[Front-end](/Front-end/Front-end_Path.md)
+[Front-end](/Menu/Frontend_Path.md)
 
-[Back-end](/Back-end/Back-end_Path.md)
+[Back-end](/Menu/Backend_Path.md)
 
-[App](/App/App_Path.md)
+[App](/Menu/App_Path.md)
 
 <br>
 
@@ -23,7 +23,7 @@ Find your path here!
 
 Before you begin, first complete week one lecture *Dev Tools Intro* to gain a basic concept of the Setup:
 
-[Week 1: Dev Tools Intro](/Dev_Tools_Intro.md)
+[Week 1: Dev Tools Intro](/Lectures/Dev_Tools_Intro.md)
 
 <br>
 
@@ -31,9 +31,9 @@ After that, ensure you have the following configured:
 
 **1. Code Editor (IDE):** We highly recommend [**VS Code**](https://code.visualstudio.com/download).
 
-**2. Version Control:** [**Git Desktop**](https://github.com/apps/desktop) installed locally.
+**2. Version Control:** [**GitHub Desktop**](https://github.com/apps/desktop) installed locally.
 
-**3. Github Account:** [**Github**](https://www.github.com/) for saving and submitting assignments.
+**3. GitHub Account:** [**GitHub**](https://www.github.com/) for saving and submitting assignments.
 
 
 <br>
