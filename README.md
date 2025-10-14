@@ -50,6 +50,13 @@ To ensure you can follow along and save your progress:
 
 **3. Fill the submission form with the URL of the solution**
 
+
+## 🧮 Points System:
+
+To explore how the points system will be implemented, click [HERE](./Points_System.md)
+
 </div>
+
+
 
 
