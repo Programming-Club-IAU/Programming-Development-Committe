@@ -16,7 +16,7 @@ It uses server languages (like Python, Java, PHP) and interfaces with databases 
 
 ## 📚 Lectures
 
-Coming Soon...
+[Week 2: Web Basics Part 1](../Lectures/Web_01.md)
 
 
 
