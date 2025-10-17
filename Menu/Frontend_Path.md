@@ -13,7 +13,7 @@ The client-side of a website or application—everything users see and interact 
 ## 📚 Lectures
 
 
-Coming Soon...
+[Week 2: Web Basics Part 1](../Lectures/Web_01.md)
 
 
 
