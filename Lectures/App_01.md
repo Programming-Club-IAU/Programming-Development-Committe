@@ -1,4 +1,4 @@
-## Week 1 – 📱 Dart Fundamentals
+## Week 2 – 📱 Dart Fundamentals
 
 This week we learned the Fundamentals of Dart language as our first step to Flutter, and covered:
 
