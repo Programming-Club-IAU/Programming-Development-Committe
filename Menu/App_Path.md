@@ -17,7 +17,7 @@ The goal is to build a functional, engaging, and performant product distributed 
 ## 📚 Lectures
 
 
-Coming Soon...
+[Week 2: Dart Fundamentals](../Lectures/App_01.md)
 
 
 
