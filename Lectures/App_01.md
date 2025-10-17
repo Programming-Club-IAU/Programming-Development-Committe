@@ -41,7 +41,7 @@ The rest of the video is also helpful if you need extra explanation for any othe
 ## 📚 Slides:
 
 
-The slides used in the lecture: [Here]()
+The slides used in the lecture: [Here](../assets/Dart_Fundamentals.pdf)
 
 <br>
 
