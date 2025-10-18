@@ -21,7 +21,7 @@ To start with Dart and Flutter, we need to download:
 - Visual Studio Code (with Dart extension + Flutter extension)
 - [Flutter SDK](https://docs.flutter.dev/install/manual)
 
-This is a helpful guide video: https://youtu.be/1KidD72q87s?si=HJZufhrCSBDIkFsU
+This is a helpful guide video  [Windows](https://youtu.be/1KidD72q87s?si=HJZufhrCSBDIkFsU) [Mac](https://youtu.be/DlfmpVUy49o?si=Go_I1PtPxmgN8n6j)
 
 <br>
 
