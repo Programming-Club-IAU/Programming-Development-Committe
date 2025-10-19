@@ -53,6 +53,12 @@ Once you’ve completed your task, share your repository link in the GitHub assi
 ## 💡 Additional Resources (Optional)
 
 If you’re interested in exploring more about HTML (maybe a little CSS), here are some extra materials you can check out at your own pace:
+- [TheOdinProject - HTML and CSS Intro](https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css)
+- [TheOdinProject - HTML Elements and Tags](https://www.theodinproject.com/lessons/foundations-elements-and-tags)
+- [TheOdinProject - HTML Boilerplate](https://www.theodinproject.com/lessons/foundations-html-boilerplate)
+- [TheOdinProject - HTML Working with Text](https://www.theodinproject.com/lessons/foundations-working-with-text)
+- [TheOdinProject - HTML Lists](https://www.theodinproject.com/lessons/foundations-lists)
+- [TheOdinProject - HTML Links and Images](https://www.theodinproject.com/lessons/foundations-links-and-images)
 - [Scrimba - HTML and CSS Course](https://scrimba.com/learn-html-and-css-c0p)
 - [Hostinger - What is HTML?](https://www.hostinger.com/tutorials/what-is-html)
 - [W3school - HTML](https://www.w3schools.com/html/default.asp)
