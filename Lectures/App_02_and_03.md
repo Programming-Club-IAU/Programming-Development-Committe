@@ -1,4 +1,4 @@
-## Week 3 & 4 – 📱 Dart Fundamentals
+## Week 3 & 4 – 📱 Flutter UI
 
 We started our first Flutter app and learned about widgets - the main Flutter UI feature-, which covered:
 
