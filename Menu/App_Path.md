@@ -20,6 +20,10 @@ The goal is to build a functional, engaging, and performant product distributed 
 [Week 2: Dart Fundamentals](../Lectures/App_01.md)
 
 
+[Week 3 & 4: Flutter UI](../Lectures/App_02_and_03.md)
+
+
+
 
 
 </div>
